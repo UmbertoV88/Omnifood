@@ -92,6 +92,11 @@
         width: 100%;
     }
 
+    .social {
+        display: flex;
+        justify-content: center;
+    }
+
     .main-nav {
         display: none;
     }
